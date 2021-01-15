@@ -2,10 +2,11 @@
 
 ### JavaScript
 
-1. [从 ECMA 规范解读 JavaScript 全局词法环境](https://github.com/afishhhhh/blog/issues/10)
-2. [`Object.assign` 以及 `spread operator`](https://github.com/afishhhhh/blog/issues/3)
-3. [Map vs. Object](https://github.com/afishhhhh/blog/issues/2)
-4. [声明、声明提升](https://github.com/afishhhhh/blog/issues/1)
+1. [JavaScript 类型转换不完全记录](https://github.com/afishhhhh/blog/issues/13)
+2. [从 ECMA 规范解读 JavaScript 全局词法环境](https://github.com/afishhhhh/blog/issues/10)
+3. [`Object.assign` 以及 `spread operator`](https://github.com/afishhhhh/blog/issues/3)
+4. [Map vs. Object](https://github.com/afishhhhh/blog/issues/2)
+5. [声明、声明提升](https://github.com/afishhhhh/blog/issues/1)
 
 ### Node.js
 
